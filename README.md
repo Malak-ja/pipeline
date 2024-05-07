@@ -1,4 +1,5 @@
 Pipeline
+
 The five-stage pipeline in a 32-bit MIPS (Microprocessor without Interlocked Pipeline Stages) processor is a fundamental concept in computer architecture. It divides the execution of instructions into five distinct stages, each handling a specific part of instruction processing. These stages are:
 
 Instruction Fetch (IF):
